@@ -16,7 +16,10 @@ git管理開始
 ### 20191009  
 類似度計算モジュールの実装完了  
 ### 20191010  
-kgMTGにてweekly demo形式で発表
+kgMTGにてweekly demo形式で発表  
+### 20191101  
+ORFのドライラン用のポスターおよび実装物の作成  
+
 ***
 ## REFERENCE  
 [アニメ風顔_検出](https://github.com/nagadomi/lbpcascade_animeface)
